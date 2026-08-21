@@ -1,1 +1,1 @@
-# k-fashion-brief
+# fashion-weekly-brief
